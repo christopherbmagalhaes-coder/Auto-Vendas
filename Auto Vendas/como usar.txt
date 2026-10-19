@@ -1,0 +1,21 @@
+INSTRUÇÕES DE USO — AUTO VENDAS
+
+1. Instale o Python no computador.
+
+2. Coloque os arquivos Clientes.xlsx, Estoque.xlsx e Pedidos.xlsx na mesma pasta do projeto.
+
+3. Abra o terminal na pasta do projeto e crie o ambiente virtual:
+python -m venv .venv
+
+4. Instale as dependências:
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+
+5. Execute a automação:
+.\.venv\Scripts\python.exe main.py
+
+6. Após a execução bem-sucedida, o arquivo Vendas.xlsx será gerado na pasta do projeto, contendo a planilha de vendas formatada e o Dashboard com quatro gráficos.
+
+OBSERVAÇÕES:
+- Mantenha os nomes dos arquivos e das colunas conforme esperado pelo sistema.
+- Se houver erros impeditivos, corrija os dados indicados no terminal e execute novamente.
+- Feche o arquivo Vendas.xlsx no Excel antes de executar uma nova vez.
