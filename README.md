@@ -1,4 +1,4 @@
-# 🚗 Auto Vendas — Automação de Relatórios com Python
+# Auto Vendas — Automação de Relatórios com Python
 
 Projeto desenvolvido em Python para automatizar a consolidação de dados de clientes, produtos e pedidos em planilhas Excel, com validação de dados, formatação profissional e geração de um dashboard para análise de vendas.
 
